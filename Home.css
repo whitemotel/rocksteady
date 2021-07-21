@@ -269,7 +269,6 @@
 .u-section-4 .u-group-3 {
   width: 315px;
   min-height: 315px;
-  height: auto;
   margin: 75px auto 0;
 }
 
@@ -315,7 +314,7 @@
 
   .u-section-4 .u-group-3 {
     width: 276px;
-    height: auto;
+    min-height: 277px;
   }
 }
 
@@ -348,6 +347,7 @@
 
   .u-section-4 .u-group-3 {
     width: 203px;
+    min-height: 203px;
   }
 }
 
