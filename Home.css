@@ -108,10 +108,15 @@
   }
 
   .u-section-2 .u-group-1 {
-    min-height: 340px;
+    min-height: 734px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+    margin-top: 0;
   }
 }.u-section-3 {
   background-image: linear-gradient(0deg, rgba(242,242,242,0.95), rgba(242,242,242,0.95)), url("images/logo.fw.png");
