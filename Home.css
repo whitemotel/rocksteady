@@ -1,44 +1,99 @@
+.u-section-1 {
+  background-image: none;
+}
+
 .u-section-1 .u-sheet-1 {
-  min-height: 468px;
+  min-height: 480px;
 }
 
 .u-section-1 .u-text-1 {
-  font-size: 4.5rem;
   font-weight: 700;
-  margin: 97px 28px 60px;
+  font-size: 3.75rem;
+  margin: 9px auto 0;
 }
 
-.u-section-1 .embed-responsive-1 {
-  height: 178%;
-  width: 178%;
-  left: -39%;
-  top: -39%;
+.u-section-1 .u-layout-wrap-1 {
+  width: 1140px;
+  margin: 9px 0 40px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 400px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 20px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 400px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 20px;
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 .u-text-1 {
-    margin-left: 0;
-    margin-right: 0;
+  .u-section-1 .u-sheet-1 {
+    min-height: 410px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 940px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 333px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-1 .u-text-1 {
-    font-size: 2.25rem;
+  .u-section-1 .u-sheet-1 {
+    min-height: 840px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-1 .u-text-1 {
-    width: auto;
-    margin-top: 48px;
+  .u-section-1 .u-sheet-1 {
+    min-height: 558px;
   }
 
-  .u-section-1 .embed-responsive-1 {
-    height: 100%;
-    width: 245%;
-    left: -72%;
-    top: 0%;
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 340px;
   }
 }.u-section-2 {
   background-image: url("images/pic1.fw1.png");
