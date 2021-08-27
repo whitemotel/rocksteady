@@ -48,6 +48,10 @@
     min-height: 333px;
   }
 
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+  }
+
   .u-section-1 .u-layout-wrap-1 {
     width: 720px;
   }
@@ -66,6 +70,10 @@
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
     min-height: 840px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
   }
 
   .u-section-1 .u-layout-wrap-1 {
@@ -89,7 +97,7 @@
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 2.25rem;
+    font-size: 1.5rem;
   }
 
   .u-section-1 .u-layout-wrap-1 {
